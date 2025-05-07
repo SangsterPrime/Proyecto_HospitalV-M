@@ -91,7 +91,7 @@ src
                     \---hospital_vm
 ```
 ## ✍️ Autor
-Joel Sangter
+Joel Sangster
 Estudiante de Ingeniería en Informática
 Apasionado por el backend y el desarrollo con Java y Spring Boot.
 
